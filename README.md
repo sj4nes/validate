@@ -1,6 +1,6 @@
 # Validate
 
-A library to easily validate user input
+A library to easily validate user input. Forked in order to update the `regex` dependency.
 
 ## Usage
 
